@@ -47,5 +47,5 @@ Bonus: Include a control at the top to expand/collapse the entire structure.
 
 Use the following sample JSON:  [sample.json](sample.json)
 
-In your application, the data can be fetched from https://fsteger.github.io/tmp-pki-interview/sample.json
+In your application, fetch the data from [https://fsteger.github.io/tmp-pki-interview/sample.json](https://fsteger.github.io/pki-interview-json-viewer/sample.json)
 
